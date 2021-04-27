@@ -1,0 +1,16 @@
+F:\FileDBProject\FileModelProject\bin\Debug\netcoreapp3.1\FileModelProject.deps.json
+F:\FileDBProject\FileModelProject\bin\Debug\netcoreapp3.1\FileModelProject.runtimeconfig.json
+F:\FileDBProject\FileModelProject\bin\Debug\netcoreapp3.1\FileModelProject.runtimeconfig.dev.json
+F:\FileDBProject\FileModelProject\bin\Debug\netcoreapp3.1\FileModelProject.dll
+F:\FileDBProject\FileModelProject\bin\Debug\netcoreapp3.1\FileModelProject.pdb
+F:\FileDBProject\FileModelProject\obj\Debug\netcoreapp3.1\FileModelProject.csprojAssemblyReference.cache
+F:\FileDBProject\FileModelProject\obj\Debug\netcoreapp3.1\FileModelProject.AssemblyInfoInputs.cache
+F:\FileDBProject\FileModelProject\obj\Debug\netcoreapp3.1\FileModelProject.AssemblyInfo.cs
+F:\FileDBProject\FileModelProject\obj\Debug\netcoreapp3.1\FileModelProject.csproj.CoreCompileInputs.cache
+F:\FileDBProject\FileModelProject\obj\Debug\netcoreapp3.1\staticwebassets\FileModelProject.StaticWebAssets.Manifest.cache
+F:\FileDBProject\FileModelProject\obj\Debug\netcoreapp3.1\staticwebassets\FileModelProject.StaticWebAssets.xml
+F:\FileDBProject\FileModelProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\FileModelProject.styles.css
+F:\FileDBProject\FileModelProject\obj\Debug\netcoreapp3.1\FileModelProject.RazorTargetAssemblyInfo.cache
+F:\FileDBProject\FileModelProject\obj\Debug\netcoreapp3.1\FileModelProject.dll
+F:\FileDBProject\FileModelProject\obj\Debug\netcoreapp3.1\FileModelProject.pdb
+F:\FileDBProject\FileModelProject\obj\Debug\netcoreapp3.1\FileModelProject.genruntimeconfig.cache
